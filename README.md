@@ -1,22 +1,20 @@
 # AI_Fundamental
 [AI 이노베이션 스퀘어] 기본 저녁반 11 기
 
-<img src='img/기본.png' />
+<img src='img/basic.png' />
 
-<img src='img/과정.png' />
+<img src='img/course.png' />
 
 <img src='img/table.png' />
-<img src='img/주관.png' />
 
 ---
 <div align="center">
   <h2 style='font-weight: bold; font-size:18px;'>주관</h2>
   <a href='https://www.msit.go.kr/web/main/main.do'>
-    <img src='imgs/logo_MSICT.png'/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href='https://ai.koipa.or.kr/'>
-    <img src='imgs/logo_IPA.png' width="200" hegiht="50" />
+    <img src='imgs/org.png' width="200" hegiht="50" />
   </a>
 </div>
 <br/>
@@ -33,6 +31,6 @@
       - string, List, Tuple, Range, Set, Frozenset
     
 
-<img src='img/주관.png' />
+<img src='img/org.png' />
 
 - [AI 이노베이션 스퀘어](https://ai.koipa.or.kr/)
