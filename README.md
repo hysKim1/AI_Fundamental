@@ -1,5 +1,4 @@
-# AI_Fundamental
-[AI 이노베이션 스퀘어] 기본 저녁반 11 기
+# [AI 이노베이션 스퀘어] 기본 저녁반 11 기
 
 <img src='img/basic.png' />
 
@@ -14,7 +13,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href='https://ai.koipa.or.kr/'>
-    <img src='imgs/org.png' width="200" hegiht="50" />
+    <img src='img/org.png' width="200" hegiht="50" />
   </a>
 </div>
 <br/>
