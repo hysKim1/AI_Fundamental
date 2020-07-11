@@ -13,7 +13,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href='https://ai.koipa.or.kr/'>
-    <img src='img/org.png' width="200" hegiht="50" />
+    <img src='img/org.png' />
   </a>
 </div>
 <br/>
