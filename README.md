@@ -1,12 +1,12 @@
 # AI_Fundamental
 [AI 이노베이션 스퀘어] 기본 저녁반 11 기
 
-<img src='imgs/기본.png' />
+<img src='img/기본.png' />
 
-<img src='imgs/과정.png' />
+<img src='img/과정.png' />
 
-<img src='imgs/table.png' />
-<img src='imgs/주관.png' />
+<img src='img/table.png' />
+<img src='img/주관.png' />
 
 ---
 <div align="center">
@@ -33,6 +33,6 @@
       - string, List, Tuple, Range, Set, Frozenset
     
 
-<img src='imgs/주관.png' />
+<img src='img/주관.png' />
 
 - [AI 이노베이션 스퀘어](https://ai.koipa.or.kr/)
