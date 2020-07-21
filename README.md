@@ -21,27 +21,27 @@
 
 ## 필기자료(링크)
  
-### [1일차 필기자료](https://github.com/hysKim1/AI_Fundamental/blob/master/200701_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B01.ipynb)
+### [1일차 필기자료 : Jupyter Notebook & Markdown, Python1](https://github.com/hysKim1/AI_Fundamental/blob/master/200701_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B01.ipynb)
     - Jupyter Notebook & Markdown
     - Python
     
-### [2일차 필기자료](https://github.com/hysKim1/AI_Fundamental/blob/master/200702_11기_기본저녁반_필기.ipynb)
+### [2일차 필기자료 : Python 자료형 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200702_11기_기본저녁반_필기.ipynb)
     - 자료형: atomic, container
       - string, List, Tuple, Range, Set, Frozenset
     
     
-### [3일차 필기자료](https://github.com/hysKim1/AI_Fundamental/blob/master/200703_11기_기본저녁반_필기.ipynb)
+### [3일차 필기자료 : Python 함수1](https://github.com/hysKim1/AI_Fundamental/blob/master/200703_11기_기본저녁반_필기.ipynb)
     - PEP: Naming, Trailing comma
     - 할당6가지 : 기본, 복합,unpacking, starred, 증감, global & nonlocal
     - 조건문 : if, else, elif, pass, none, 
     - 삼항 연산자, 논리 연사자(AND,OR), IN, NOT IN
     - 반복문 : for, break, continue
     
-### [4일차 필기자료](https://github.com/hysKim1/AI_Fundamental/blob/master/200706_11기_기본저녁반_필기.ipynb)
+### [4일차 필기자료 : Python 함수2](https://github.com/hysKim1/AI_Fundamental/blob/master/200706_11기_기본저녁반_필기.ipynb)
     - 예외처리문  :Try, except, as, else,finally, assert, raise from, 
     - Function : 함수 선언/정의, 디폴트값, Signature, docstring, 매개변수 할당하는 7자기 
 
-### [5일차 필기자료](https://github.com/hysKim1/AI_Fundamental/blob/master/200707_11기_기본저녁반_필기.ipynb)
+### [5일차 필기자료 : Python 함수3](https://github.com/hysKim1/AI_Fundamental/blob/master/200707_11기_기본저녁반_필기.ipynb)
     - 함수
       - 함수 반환값 ,중첩,closure, higher order func, scope, overloading, 재귀, lambda, *, namespace, callable
 
