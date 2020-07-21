@@ -58,7 +58,21 @@
     - 배열 연산 : broadcasting
 
 ### [13일차 필기자료 :Numpy 3](https://github.com/hysKim1/AI_Fundamental/blob/master/200717_11기_기본저녁반_필기.ipynb)
-   
+    - Array 정보 : shape,ndim size ,dtype ,itemsize , data
+    - Array 생성 :_like( zeros,onex,empty,full_like) fromfunction
+    - Copy :pyton shallow /deep copy, Numpy shallow/ deep copy, new copy: reshape,resize
+    - Array 한줄로 변환 flatten, ravel
+    - Array 분할: split, hsplit,vsplit, unpacking응용
+    - Universal Function(ufunc)): np.abs, np.sum
+    - 행렬 연산: np.multiply *,np.dot @
+    - Array Iterating : flat, ndenmerate, strides
+    - Numpy Help : info, lookfor
+    - Scipy
+    
+### [14일차 필기자료 :Numpy 4& Pandas]()
+    - 
+    
+### [15일차 필기자료 : Pandas2 ]()
 
 <img src='img/org.png' />
 
