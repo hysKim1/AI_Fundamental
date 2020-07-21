@@ -47,11 +47,16 @@
 
     
 ### [11일차 필기자료 :Numpy 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200715_11기_기본저녁반필기.ipynb)
-    -Numpy
+    - Numpy
     - array, ndarray, zeros, ones,full,empty, identity, linespace,logspace
       - shape, ndim,size, dtype,reshape, concatnate
 ### [12일차 필기자료 :Numpy 2](https://github.com/hysKim1/AI_Fundamental/blob/master/200716_11기_기본저녁반_필기.ipynb)
-    
+    - arange ,repeat,reshape ,resize 
+    - Image
+    - Indexing :Array Indexing / slicing , Boolean Indexing, Fancy Indexing
+    - 차원 증가 방법: shape, reshape, None, newaxis, expand_dims
+    - 배열 연산 : broadcasting
+
 ### [13일차 필기자료 :Numpy 3](https://github.com/hysKim1/AI_Fundamental/blob/master/200717_11기_기본저녁반_필기.ipynb)
    
 
