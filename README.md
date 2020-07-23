@@ -69,7 +69,7 @@
     - Numpy Help : info, lookfor
     - Scipy
     
-### [14일차 필기자료 :Numpy 4& Pandas]()
+### [14일차 필기자료 :Numpy 4& Pandas](https://github.com/hysKim1/AI_Fundamental/blob/master/200720_11기_기본저녁반_필기.ipynb)
     - 
     
 ### [15일차 필기자료 : Pandas2 ]()
