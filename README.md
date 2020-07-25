@@ -72,7 +72,7 @@
 ### [14일차 필기자료 :Numpy 4& Pandas](https://github.com/hysKim1/AI_Fundamental/blob/master/200720_11기_기본저녁반_필기.ipynb)
     - 
     
-### [15일차 필기자료 : Pandas2 ]()
+### [15일차 필기자료 : Pandas2 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200721_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
 
 <img src='img/org.png' />
 
