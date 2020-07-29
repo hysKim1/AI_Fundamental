@@ -69,26 +69,28 @@
     - Numpy Help : info, lookfor
     - Scipy
     
-### [14일차 필기자료 :Numpy 4& Pandas](https://github.com/hysKim1/AI_Fundamental/blob/master/200720_11기_기본저녁반_필기.ipynb)
+### [14일차 필기자료 :Numpy 4& 	Pandas를 통한 데이터 분석 (1)](https://github.com/hysKim1/AI_Fundamental/blob/master/200720_11기_기본저녁반_필기.ipynb)
     - repr, str
     - Array 분할: np.split, np.hsplit,np.vsplit  , Array 결합:concatnate,append,hstack,column_stack, vstack,row_stack, stack, r_,c_
     - 원소 배열 변환 ; np.swapaxes, T transpose
     - Structured Arrays 생성,indexing
     - Pandas 통한 분석:읽기:read_csv, 정보: info, 열, 행,  인덱싱,filtering: boolean indexing, Aggregation: groupby, 시각화: line,bar, pie
     
-### [15일차 필기자료 : Pandas2 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200721_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
+### [15일차 필기자료 : 	Pandas를 통한 데이터 분석 (2) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200721_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
 -
-### [16일차 필기자료 : Pandas2 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200722_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [16일차 필기자료 : 	Pandas를 통한 데이터 분석 (3)](https://github.com/hysKim1/AI_Fundamental/blob/master/200722_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     - 데이터 불러오기: read, 데이저 정보: info, 데이터 결합:concat, append, columns :추가,  drop, rename , Aggregation: groupby, pivot table, crosstab, 
     - Tidy Data 연습, 기계학습 예시(KNN)
-### [17,18일차 필기자료 : Pandas2 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200723_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [17,18일차 필기자료 : Pandas를 통한 전처리 (1) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200723_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
      - 추천 시스템
      - README, 데이터 불러오기, 결합: rename, concat, append, merge,  전처리 :drop, indexing, select_dtypes,to_numeric, max_rows
      - Reshaping: melt, stack, unstack, pivot ,결측치: fillna, 상관분석: 조건문,apply
-### [19일차 필기자료 : Pandas 이용한 전처리 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200727_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [19일차 필기자료 : Pandas를 통한 전처리 (2)](https://github.com/hysKim1/AI_Fundamental/blob/master/200727_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     - 기계학습(KNN) 맛보기, DESCR,data,feature_names, target
     - 결측치 : isnull, isna, fillna, 
     - 데이터 타입 변환: map, category, astype(object)
+    
+### [20일차 필기자료 : Pandas를 통한 전처리 (3)]( )
 <img src='img/org.png' />
 
 - [AI 이노베이션 스퀘어](https://ai.koipa.or.kr/)
