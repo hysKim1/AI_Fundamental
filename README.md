@@ -77,7 +77,8 @@
     - Pandas 통한 분석:읽기:read_csv, 정보: info, 열, 행,  인덱싱,filtering: boolean indexing, Aggregation: groupby, 시각화: line,bar, pie
     
 ### [15일차 필기자료 : 	Pandas를 통한 데이터 분석 (2) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200721_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
--
+    - Pandas: 1.데이터불러오기 2. 데이터 정보: info, head, tail,sample 3.EDA: Unique,nunique,describe,values_countes, 시각화:pie,bar,boxplot
+    - descibe의 다형성, 산점도 행렬, Aggregation:groupby  데이터 정렬: sort, sorted, sort_values, sort_index; index 변경: set_index, reset_index
 ### [16일차 필기자료 : 	Pandas를 통한 데이터 분석 (3)](https://github.com/hysKim1/AI_Fundamental/blob/master/200722_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     - 데이터 불러오기: read, 데이저 정보: info, 데이터 결합:concat, append, columns :추가,  drop, rename , Aggregation: groupby, pivot table, crosstab, 
     - Tidy Data 연습, 기계학습 예시(KNN)
