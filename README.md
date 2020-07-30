@@ -95,11 +95,19 @@
 <img src='img/org.png' />
 ### [21일차 필기자료 : 기계학습: Scikit-Learn (1)](https://github.com/hysKim1/AI_Fundamental/blob/master/200729_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     -   sklearn : 학습: knn.fit, 예측: knn.perdict, 데이터 분할: train_test_split , 검정(정확도): knn.score
-### [22일차 필기자료 : Pandas를 통한 전처리 (3)]( )
-### [23일차 필기자료 : Pandas를 통한 전처리 (3)]( )
-### [24일차 필기자료 : Pandas를 통한 전처리 (3)]( )
-### [25일차 필기자료 : Pandas를 통한 전처리 (3)]( )
-### [26일차 필기자료 : Pandas를 통한 전처리 (3)]( )
+    
+### [22일차 필기자료 : 기계학습: Scikit-Learn (2)]( )
+    - 
+### [23일차 필기자료 : 기계학습: Scikit-Learn (3)]( )
+### [24일차 필기자료 : 기계학습: Scikit-Learn (4)]( )
+### [25일차 필기자료 : 기계학습: Scikit-Learn (5)]( )
+### [26일차 필기자료 : 기계학습: Scikit-Learn (6)]( )
+### [27일차 필기자료 : 기계학습: Scikit-Learn (7)]( )
+### [28일차 필기자료 : 기계학습: Scikit-Learn (8)]( )
+### [29일차 필기자료 : 기계학습: Scikit-Learn (9)]( )
+### [30일차 필기자료 : 기계학습: Scikit-Learn (10)]( )
+
+--- 
 <img src='img/org.png' />
 
 - [AI 이노베이션 스퀘어](https://ai.koipa.or.kr/)
