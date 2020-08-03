@@ -91,14 +91,18 @@
     - 결측치 : isnull, isna, fillna, 
     - 데이터 타입 변환: map, category, astype(object)
     
-### [20일차 필기자료 : Pandas를 통한 전처리 (3)]( )
-     - 
+### [20일차 필기자료 : Pandas를 통한 전처리 (3)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200728_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+     - 시간날짜 :calendar, datetime,strptime, strftime;  to_datetime, resample, OHLC
+     - 지도 folium : Map, Marker, CircleMarker,Circle + iterrows,itertuples
+     - 그래프 matplotlib.pyplot: State Machine, figure,axes,subplots, title,label, legend, grid,ticks, lim, style.use, style.context 
 ### [21일차 필기자료 : 기계학습: Scikit-Learn (1)](https://github.com/hysKim1/AI_Fundamental/blob/master/200729_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     -   sklearn : 학습: knn.fit, 예측: knn.perdict, 데이터 분할: train_test_split , 검정(정확도): knn.score
     
-### [22일차 필기자료 : 기계학습: Scikit-Learn (2)]( )
-    - 
-### [23일차 필기자료 : 기계학습: Scikit-Learn (3)]( )
+### [22일차 필기자료 : 기계학습: Scikit-Learn (2)](https://github.com/hysKim1/AI_Fundamental/blob/master/200730_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+    -  과정: 데이터 준비, EDA,데이터 분할, 모델 학습, 모델 성능 평가, 모델 비교,  전처리에 따른 성능변화 : scaling ( MinMaxScaler,StandardScaler,RobustScaler , MaxAbsScaler)최적의 성능 : Overfiting, Underfiting, cross-validation(cross_val_score)
+### [23일차 필기자료 : 기계학습: Scikit-Learn (3)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200731_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+    - 과정 : 결측치 처리 :fillna, SimpleImputer, KNNImputer, Encoding : Label Encoding (map, LabelEncoder), One-Hot Encoding(get_dummies, OneHotEncoder)
+    - EDA:  상관관계 :pairplot, corr, heatmap, 모델분류 : Linear Regression, KNeighborsRegressor, DecisionTreeRegressor, 평가척도 : confusion_matrix
 ### [24일차 필기자료 : 기계학습: Scikit-Learn (4)]( )
 ### [25일차 필기자료 : 기계학습: Scikit-Learn (5)]( )
 ### [26일차 필기자료 : 기계학습: Scikit-Learn (6)]( )
