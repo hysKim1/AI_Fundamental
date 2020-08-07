@@ -103,8 +103,14 @@
 ### [23일차 필기자료 : 기계학습: Scikit-Learn (3)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200731_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     - 과정 : 결측치 처리 :fillna, SimpleImputer, KNNImputer, Encoding : Label Encoding (map, LabelEncoder), One-Hot Encoding(get_dummies, OneHotEncoder)
     - EDA:  상관관계 :pairplot, corr, heatmap, 모델분류 : Linear Regression, KNeighborsRegressor, DecisionTreeRegressor, 평가척도 : confusion_matrix
-### [24일차 필기자료 : 기계학습: Scikit-Learn (4)]( )
-### [25일차 필기자료 : 기계학습: Scikit-Learn (5)]( )
+### [24일차 필기자료 : 기계학습: Scikit-Learn (4)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200803_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+    -  ML 복습, 성능조적 1.Model Selection ,2.Preprocessing : scaler
+    -  Classification Metric : confusion_matrix, 
+    -  classification_report: Accuracy,Precision, Recall, F-1
+    - Titanic : Encodng, 범주화 : cut, qcut,  Aggregation
+### [25일차 필기자료 : 기계학습: Scikit-Learn (5)](https://github.com/hysKim1/AI_Fundamental/blob/master/200804_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+    - ML 복습, 이미지 : 이미지 특성, 채널, 이미지 데이터, 전처리,데이터 학습 
+    - 파이프라인: Pipeline, make_pipeline, ColumnTransformer, overloading
 ### [26일차 필기자료 : 기계학습: Scikit-Learn (6)]( )
 ### [27일차 필기자료 : 기계학습: Scikit-Learn (7)]( )
 ### [28일차 필기자료 : 기계학습: Scikit-Learn (8)]( )
