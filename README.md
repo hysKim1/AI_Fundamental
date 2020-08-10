@@ -111,7 +111,10 @@
 ### [25일차 필기자료 : 기계학습: Scikit-Learn (5)](https://github.com/hysKim1/AI_Fundamental/blob/master/200804_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
     - ML 복습, 이미지 : 이미지 특성, 채널, 이미지 데이터, 전처리,데이터 학습 
     - 파이프라인: Pipeline, make_pipeline, ColumnTransformer, overloading
-### [26일차 필기자료 : 기계학습: Scikit-Learn (6)]( )
+### [26일차 필기자료 : 기계학습: Scikit-Learn (6)](https://github.com/hysKim1/AI_Fundamental/blob/master/200805_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+    -  검정: Holdout( 2-way,3-way), cross_val_score, learning_curve
+    -  자동화 : Pipeline,GridSearchCV
+    - feature seleciton: filter, wrapper ,embeded
 ### [27일차 필기자료 : 기계학습: Scikit-Learn (7)]( )
 ### [28일차 필기자료 : 기계학습: Scikit-Learn (8)](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb )
     - 비지도학습 : clustering : KMeans, AgglomerativeClustering /w dendrogram,DBSCAN 
