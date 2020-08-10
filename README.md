@@ -116,11 +116,12 @@
     -  자동화 : Pipeline,GridSearchCV
     - feature seleciton: filter, wrapper ,embeded
 ### [27일차 필기자료 : 기계학습: Scikit-Learn (7)]( )
-### [28일차 필기자료 : 기계학습: Scikit-Learn (8)](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb )
+### [28일차 필기자료 : 기계학습: Scikit-Learn (8), Deep Learning 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb )
     - 비지도학습 : clustering : KMeans, AgglomerativeClustering /w dendrogram,DBSCAN 
     - Deep Learning: Perceptron : OR, AND , XOR, MLP/ANN , 책추천
-### [29일차 필기자료 : 기계학습: Scikit-Learn (9)]( )
-### [30일차 필기자료 : 기계학습: Scikit-Learn (10)]( )
+### [29일차 필기자료 : Deep Learning 2 ]( )
+    - MLP/ANN 
+### [30일차 필기자료 : Deep Learning 3]( )
 
 --- 
 <img src='img/org.png' />
