@@ -119,9 +119,27 @@
 ### [28일차 필기자료 : 기계학습: Scikit-Learn (8), Deep Learning 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb )
     - 비지도학습 : clustering : KMeans, AgglomerativeClustering /w dendrogram,DBSCAN 
     - Deep Learning: Perceptron : OR, AND , XOR, MLP/ANN , 책추천
-### [29일차 필기자료 : Deep Learning 2 ]( )
-    - MLP/ANN 
-### [30일차 필기자료 : Deep Learning 3]( )
+### [29일차 필기자료 : Deep Learning 2 ](https://github.com/hysKim1/AI_Fundamental/commit/54906de7554ef2e7137a74cfbf3cb81b39c13e06 )
+    - 퍼셉트론 한계점:XOR 
+    - Activation Function: Step,Sigmoid,Tanh,ReLu, 
+    - Graphical representation, 원리:feed forward, back propagation, gradient descent, 문제점:overfitting, Gradient Vanishing
+### [30일차 필기자료 : Deep Learning 3](https://github.com/hysKim1/AI_Fundamental/blob/master/200811_11기_기본저녁반_필기.ipynb )
+     -  Tensor Flow: 설치, Numpy vs TF, 연산:add, reduce_sum,Ufunc, broadcasting
+     - DL 과정: 데이터 , holdout, normalization, 모델 구조, 모덱 학습전략 compile, 학습fit,검정 evaluate
+### [31일차 필기자료 : Deep Learning 4]( https://github.com/hysKim1/AI_Fundamental/blob/master/200812_11기_기본저녁반_필기.ipynb)
+    - 모델 생성 :Sequential, Dense, Flaten , 구성요소: (kernel_initializer, bias_initializer, input_shape, activation ), output layer: binary/multi- classification, Regresson 
+    - 학습전략 compile(loss, optimizer, metrics), 학습: fit(epochs, batch_size), 예측: predict
+### [32일차 필기자료 : Deep Learning 5]( https://github.com/hysKim1/AI_Fundamental/blob/master/200813_11기_기본저녁반_필기.ipynb)
+    - tf.keras.utils: plot_model. to_categorical
+    - Callback: overriding, 
+    - Tensorboard: model, 이미지 데이터 , magic commands 
+### [33일차 필기자료 : Deep Learning 6]( https://github.com/hysKim1/AI_Fundamental/blob/master/200814_11기_기본저녁반_필기.ipynb )
+### [34일차 필기자료 : Deep Learning 7](https://github.com/hysKim1/AI_Fundamental/blob/master/200818_11기_기본저녁반.ipynb)
+### [35일차 필기자료 : Deep Learning 8]( )
+### [36일차 필기자료 : Deep Learning 9]( )
+### [37일차 필기자료 : Deep Learning 10]( )
+### [37일차 필기자료 : Deep Learning 11]( )
+### [37일차 필기자료 : Deep Learning 12]( )
 
 --- 
 <img src='img/org.png' />
