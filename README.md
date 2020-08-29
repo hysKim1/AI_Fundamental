@@ -45,7 +45,9 @@
     - 함수
       - 함수 반환값 ,중첩,closure, higher order func, scope, overloading, 재귀, lambda, *, namespace, callable
 
-    
+### [9일차 필기자료 :함수형 패러다임1](https://github.com/hysKim1/AI_Fundamental/blob/master/200713_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
+### [10일차 필기자료 :함수형 패러다임2](https://github.com/hysKim1/AI_Fundamental/blob/master/200714_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+
 ### [11일차 필기자료 :Numpy 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200715_11기_기본저녁반필기.ipynb)
     - Numpy
     - array, ndarray, zeros, ones,full,empty, identity, linespace,logspace
@@ -139,8 +141,10 @@
 ### [37일차 필기자료 : Deep Learning 9](https://github.com/hysKim1/AI_Fundamental/blob/master/200821_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
 ### [38일차 필기자료 : Deep Learning 10](https://github.com/hysKim1/AI_Fundamental/blob/master/200824_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
 ### [39일차 필기자료 : Deep Learning 11]( https://github.com/hysKim1/AI_Fundamental/blob/master/200825_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+    -  언어 : Text  Classification  : unique,join, get, sequence 처리 :pad_sequences , Embedding, GlobalAveragePooling1D, Imbalanced Data
 ### [40일차 필기자료 : Deep Learning 12](https://github.com/hysKim1/AI_Fundamental/blob/master/200826_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-
+    - tensorflow_datasets :load(split, shuffle_files, as_supervised. with_info), batch, Numpy dataset vs TF dataset : iterable, 성능 최적화: Cache, Prefetch(AUTOTUNE)
+    - Transfer Learning by tenseorflow_hub, keras_layer(dtype, trainable, inputshape)
 --- 
 <img src='img/org.png' />
 
