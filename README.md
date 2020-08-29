@@ -135,11 +135,11 @@
     - Tensorboard: model, 이미지 데이터 , magic commands 
 ### [33일차 필기자료 : Deep Learning 6]( https://github.com/hysKim1/AI_Fundamental/blob/master/200814_11기_기본저녁반_필기.ipynb )
 ### [34일차 필기자료 : Deep Learning 7](https://github.com/hysKim1/AI_Fundamental/blob/master/200818_11기_기본저녁반.ipynb)
-### [35일차 필기자료 : Deep Learning 8]( )
-### [36일차 필기자료 : Deep Learning 9]( )
-### [37일차 필기자료 : Deep Learning 10]( )
-### [37일차 필기자료 : Deep Learning 11]( )
-### [37일차 필기자료 : Deep Learning 12]( )
+### [36일차 필기자료 : Deep Learning 8](https://github.com/hysKim1/AI_Fundamental/blob/master/200820_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+### [37일차 필기자료 : Deep Learning 9](https://github.com/hysKim1/AI_Fundamental/blob/master/200821_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+### [38일차 필기자료 : Deep Learning 10](https://github.com/hysKim1/AI_Fundamental/blob/master/200824_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+### [39일차 필기자료 : Deep Learning 11]( https://github.com/hysKim1/AI_Fundamental/blob/master/200825_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [40일차 필기자료 : Deep Learning 12](https://github.com/hysKim1/AI_Fundamental/blob/master/200826_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
 
 --- 
 <img src='img/org.png' />
