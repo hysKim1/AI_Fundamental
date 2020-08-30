@@ -138,13 +138,12 @@
 ### [33일차 필기자료 : Deep Learning 6]( https://github.com/hysKim1/AI_Fundamental/blob/master/200814_11기_기본저녁반_필기.ipynb )
 ### [34일차 필기자료 : Deep Learning 7](https://github.com/hysKim1/AI_Fundamental/blob/master/200818_11기_기본저녁반.ipynb)
 ### [36일차 필기자료 : Deep Learning 8](https://github.com/hysKim1/AI_Fundamental/blob/master/200820_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-  - layers(weights, variables), \_\_init__,\_\_call__, build(),call() 
-  - 학습 방법 4가지 : 1) train,  2
-  ) fit( batch,epochs, verbose, callbacks, validation_split, class_weight, initial_epoch, workers, trainable)  ,  3)train_on_batch , 4) GradientTape
+    - layers(weights, variables), \_\_init__,\_\_call__, build(),call() 
+    - 학습 방법 4가지 : 1) train,  2) fit( batch,epochs, verbose, callbacks, validation_split, class_weight, initial_epoch, workers, trainable)  ,  3)train_on_batch , 4) GradientTape
 ### [37일차 필기자료 : Deep Learning 9](https://github.com/hysKim1/AI_Fundamental/blob/master/200821_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-  - Gradient Descent : Algorithms (step 방향, step size), GradientTape(watch_accessed_variables, persistent), None Gradient 
+    - Gradient Descent : Algorithms (step 방향, step size), GradientTape(watch_accessed_variables, persistent), None Gradient 
 ### [38일차 필기자료 : Deep Learning 10](https://github.com/hysKim1/AI_Fundamental/blob/master/200824_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-  - 시각 CNN : CNN의 재부활, DNN과 비교 , 합성곱,padding, Feature Map: stride, kernel, pooling,  CNN 실습:Conv2D, MaxPool2D 
+   - 시각 CNN : CNN의 재부활, DNN과 비교 , 합성곱,padding, Feature Map: stride, kernel, pooling,  CNN 실습:Conv2D, MaxPool2D 
 ### [39일차 필기자료 : Deep Learning 11]( https://github.com/hysKim1/AI_Fundamental/blob/master/200825_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     -  언어 : Text  Classification  : unique,join, get, sequence 처리 :pad_sequences , Embedding, GlobalAveragePooling1D, Imbalanced Data
 ### [40일차 필기자료 : Deep Learning 12](https://github.com/hysKim1/AI_Fundamental/blob/master/200826_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
