@@ -83,23 +83,23 @@
 ### [15일차 필기자료 : 	Pandas를 통한 데이터 분석 (2) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200721_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
     - Pandas: 1.데이터불러오기 2. 데이터 정보: info, head, tail,sample 3.EDA: Unique,nunique,describe,values_countes, 시각화:pie,bar,boxplot
     - descibe의 다형성, 산점도 행렬, Aggregation:groupby  데이터 정렬: sort, sorted, sort_values, sort_index; index 변경: set_index, reset_index
-### [16일차 필기자료 : 	Pandas를 통한 데이터 분석 (3)](https://github.com/hysKim1/AI_Fundamental/blob/master/200722_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [16일차 필기자료 : 	Pandas를 통한 데이터 분석 (3)](https://github.com/hysKim1/AI_Fundamental/blob/master/200722_11기_기본저녁반_필기.ipynb)
     - 데이터 불러오기: read, 데이저 정보: info, 데이터 결합:concat, append, columns :추가,  drop, rename , Aggregation: groupby, pivot table, crosstab, 
     - Tidy Data 연습, 기계학습 예시(KNN)
-### [17,18일차 필기자료 : Pandas를 통한 전처리 (1) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200723_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [17,18일차 필기자료 : Pandas를 통한 전처리 (1) ](https://github.com/hysKim1/AI_Fundamental/blob/master/200723_11기_기본저녁반_필기.ipynb)
      - 추천 시스템
      - README, 데이터 불러오기, 결합: rename, concat, append, merge,  전처리 :drop, indexing, select_dtypes,to_numeric, max_rows
      - Reshaping: melt, stack, unstack, pivot ,결측치: fillna, 상관분석: 조건문,apply
-### [19일차 필기자료 : Pandas를 통한 전처리 (2)](https://github.com/hysKim1/AI_Fundamental/blob/master/200727_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [19일차 필기자료 : Pandas를 통한 전처리 (2)](https://github.com/hysKim1/AI_Fundamental/blob/master/200727_11기_기본저녁반_필기.ipynb)
     - 기계학습(KNN) 맛보기, DESCR,data,feature_names, target
     - 결측치 : isnull, isna, fillna, 
     - 데이터 타입 변환: map, category, astype(object)
     
-### [20일차 필기자료 : Pandas를 통한 전처리 (3)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200728_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [20일차 필기자료 : Pandas를 통한 전처리 (3)]( https://github.com/hysKim1/AI_Fundamental/blob/master/200728_11기_기본저녁반_필기.ipynb)
      - 시간날짜 :calendar, datetime,strptime, strftime;  to_datetime, resample, OHLC
      - 지도 folium : Map, Marker, CircleMarker,Circle + iterrows,itertuples
      - 그래프 matplotlib.pyplot: State Machine, figure,axes,subplots, title,label, legend, grid,ticks, lim, style.use, style.context 
-### [21일차 필기자료 : 기계학습: Scikit-Learn (1)](https://github.com/hysKim1/AI_Fundamental/blob/master/200729_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
+### [21일차 필기자료 : 기계학습: Scikit-Learn (1)](https://github.com/hysKim1/AI_Fundamental/blob/master/200729_11기_기본저녁반_필기.ipynb)
     -   sklearn : 학습: knn.fit, 예측: knn.perdict, 데이터 분할: train_test_split , 검정(정확도): knn.score
     
 ### [22일차 필기자료 : 기계학습: Scikit-Learn (2)](https://github.com/hysKim1/AI_Fundamental/blob/master/200730_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
@@ -115,15 +115,19 @@
 ### [25일차 필기자료 : 기계학습: Scikit-Learn (5)](https://github.com/hysKim1/AI_Fundamental/blob/master/200804_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
     - ML 복습, 이미지 : 이미지 특성, 채널, 이미지 데이터, 전처리,데이터 학습 
     - 파이프라인: Pipeline, make_pipeline, ColumnTransformer, overloading
-### [26일차 필기자료 : 기계학습: Scikit-Learn (6)](https://github.com/hysKim1/AI_Fundamental/blob/master/200805_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
+### [26일차 필기자료 : 기계학습: Scikit-Learn (6)](https://github.com/hysKim1/AI_Fundamental/blob/master/200805_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     -  검정: Holdout( 2-way,3-way), cross_val_score, learning_curve
     -  자동화 : Pipeline,GridSearchCV
     - feature seleciton: filter, wrapper ,embeded
-### [27일차 필기자료 : 기계학습: Scikit-Learn (7)]( )
-### [28일차 필기자료 : 기계학습: Scikit-Learn (8), Deep Learning 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb )
+### [27일차 필기자료 : 기계학습: Scikit-Learn (7)](https://github.com/hysKim1/AI_Fundamental/blob/master/200806_11기_기본저녁반_필기.ipynb)
+    - 데이터형 변환 : pandas  수치형 변환 :to_numeric, astype; Label Encoding :category, LabelEncoder, OrdinalEncoder, ; One-Hot Encoding :get_dummies,OneHotEncoder  
+    - Dimentional Reduction :PCA
+    - 분류 예측의 불확실성 추정 : predict_proba, decision funciton,
+    - Ensemble: Boosting, Bagging, Random Forest, Voting, Stacking
+### [28일차 필기자료 : 기계학습: Scikit-Learn (8), Deep Learning 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200807_11기_기본저녁반_필기.ipynb)
     - 비지도학습 : clustering : KMeans, AgglomerativeClustering /w dendrogram,DBSCAN 
     - Deep Learning: Perceptron : OR, AND , XOR, MLP/ANN , 책추천
-### [29일차 필기자료 : Deep Learning 2 ](https://github.com/hysKim1/AI_Fundamental/commit/54906de7554ef2e7137a74cfbf3cb81b39c13e06 )
+### [29일차 필기자료 : Deep Learning 2 ](https://github.com/hysKim1/AI_Fundamental/blob/master/200810_11기_기본저녁반_필기.ipynb)
     - 퍼셉트론 한계점:XOR 
     - Activation Function: Step,Sigmoid,Tanh,ReLu, 
     - Graphical representation, 원리:feed forward, back propagation, gradient descent, 문제점:overfitting, Gradient Vanishing
