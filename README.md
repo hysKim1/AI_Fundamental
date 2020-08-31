@@ -46,8 +46,10 @@
       - 함수 반환값 ,중첩,closure, higher order func, scope, overloading, 재귀, lambda, *, namespace, callable
 
 ### [9일차 필기자료 :함수형 패러다임1](https://github.com/hysKim1/AI_Fundamental/blob/master/200713_11%E1%84%80%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%8C%E1%85%A5%E1%84%82%E1%85%A7%E1%86%A8%E1%84%87%E1%85%A1%E1%86%AB_%E1%84%91%E1%85%B5%E1%86%AF%E1%84%80%E1%85%B5.ipynb)
+    - 함수형 프로그래밍 , iterable, enumerate , dis, comprehension, filtering, generator, itertools, map, filter , reduce, 함수: recursion, Higher Order Function
 ### [10일차 필기자료 :함수형 패러다임2](https://github.com/hysKim1/AI_Fundamental/blob/master/200714_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
-
+    - callable : function ,calss ,class() 
+    - 함수 중첩: closure, LEGB, Higher Order Function , map,filter,reduce Module
 ### [11일차 필기자료 :Numpy 1](https://github.com/hysKim1/AI_Fundamental/blob/master/200715_11기_기본저녁반필기.ipynb)
     - Numpy
     - array, ndarray, zeros, ones,full,empty, identity, linespace,logspace
@@ -136,14 +138,17 @@
     - Callback: overriding, 
     - Tensorboard: model, 이미지 데이터 , magic commands 
 ### [33일차 필기자료 : Deep Learning 6]( https://github.com/hysKim1/AI_Fundamental/blob/master/200814_11기_기본저녁반_필기.ipynb )
+    - wrappers: KerasClassifier(build_fn),KerasRegressor(build_fn)
+    - 성능 : Underfitting(high bias), Overfitting(High variance), 방지 전략: 모델 볼륨(노드,레이어 ) 줄이기, EarlyStopping ,Dropout by trainable=False , regulation L1,L2 ,Data Augmentattion,Normalizatoin
 ### [34일차 필기자료 : Deep Learning 7](https://github.com/hysKim1/AI_Fundamental/blob/master/200818_11기_기본저녁반.ipynb)
+    - Kears의 Functional Paradigm :callable , Sequential 방식, Model 방식: input(shape), Model(inputs, outputs), Concatnate()
 ### [36일차 필기자료 : Deep Learning 8](https://github.com/hysKim1/AI_Fundamental/blob/master/200820_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-    - layers(weights, variables), \_\_init__,\_\_call__, build(),call() 
+    - layers(weights, variables), __init__, __call__, build(),call() 
     - 학습 방법 4가지 : 1) train,  2) fit( batch,epochs, verbose, callbacks, validation_split, class_weight, initial_epoch, workers, trainable)  ,  3)train_on_batch , 4) GradientTape
 ### [37일차 필기자료 : Deep Learning 9](https://github.com/hysKim1/AI_Fundamental/blob/master/200821_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
     - Gradient Descent : Algorithms (step 방향, step size), GradientTape(watch_accessed_variables, persistent), None Gradient 
 ### [38일차 필기자료 : Deep Learning 10](https://github.com/hysKim1/AI_Fundamental/blob/master/200824_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
-   - 시각 CNN : CNN의 재부활, DNN과 비교 , 합성곱,padding, Feature Map: stride, kernel, pooling,  CNN 실습:Conv2D, MaxPool2D 
+    - 시각 CNN : CNN의 재부활, DNN과 비교 , 합성곱,padding, Feature Map: stride, kernel, pooling,  CNN 실습:Conv2D, MaxPool2D 
 ### [39일차 필기자료 : Deep Learning 11]( https://github.com/hysKim1/AI_Fundamental/blob/master/200825_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb)
     -  언어 : Text  Classification  : unique,join, get, sequence 처리 :pad_sequences , Embedding, GlobalAveragePooling1D, Imbalanced Data
 ### [40일차 필기자료 : Deep Learning 12](https://github.com/hysKim1/AI_Fundamental/blob/master/200826_11%EA%B8%B0_%EA%B8%B0%EB%B3%B8%EC%A0%80%EB%85%81%EB%B0%98_%ED%95%84%EA%B8%B0.ipynb )
